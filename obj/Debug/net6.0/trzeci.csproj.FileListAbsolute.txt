@@ -1,0 +1,15 @@
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\trzeci.csproj.AssemblyReference.cache
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\trzeci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\trzeci.AssemblyInfoInputs.cache
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\trzeci.AssemblyInfo.cs
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\trzeci.csproj.CoreCompileInputs.cache
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\bin\Debug\net6.0\trzeci.exe
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\bin\Debug\net6.0\trzeci.deps.json
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\bin\Debug\net6.0\trzeci.runtimeconfig.json
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\bin\Debug\net6.0\trzeci.dll
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\bin\Debug\net6.0\trzeci.pdb
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\trzeci.dll
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\refint\trzeci.dll
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\trzeci.pdb
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\trzeci.genruntimeconfig.cache
+C:\Users\Klaudia\Desktop\Studia\Fifti\trzeci\trzeci\trzeci\obj\Debug\net6.0\ref\trzeci.dll
